@@ -1,0 +1,13 @@
+.container {
+  overflow: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+@media (max-width: 870px) {
+  .container {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
