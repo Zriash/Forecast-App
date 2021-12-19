@@ -6,9 +6,9 @@ click to get hourly forecast for each day.
 
 ## Screenshots
 
-![App Screenshot](./images/forecastDaily.jpg)
-
 ![App Screenshot](./images/homePage.jpg)
+
+![App Screenshot](./images/forecastDaily.jpg)
 
 
 ## Installation
